@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Yeo Boon Ping",
+      "title": "CNBC Daily Open: Everyone gave Reddit an upvote - CNBC",
+      "description": "Our social media habits are so ingrained they're almost automatic and essential. Little surprise, then, that the companies behind them are flourishing.",
+      "url": "https://www.cnbc.com/2024/10/30/cnbc-daily-open-everyone-gave-reddit-an-upvote.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107390947-1711037865541-Reddit-OB-20240321-CC-PRESS-32.jpg?v=1711037945&w=1920&h=1080",
+      "publishedAt": "2024-10-30T07:30:01Z",
+      "content": "This report is from today's CNBC Daily Open, our international markets newsletter. CNBC Daily Open brings investors up to speed on everything they need to know, no matter where they are. Like what yo… [+4102 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Variety" },
+      "author": "Cynthia Littleton",
+      "title": "Jimmy Kimmel Makes Case Against Donald Trump in Plea to Moderate Republicans: ‘He’s the Exact Meeting Point Between QAnon and QVC’ - Variety",
+      "description": "Jimmy Kimmel used Tuesday's monologue to urge Republicans not to vote for Donald Trump, calling him the 'meeting point between QAnon and QVC.'",
+      "url": "https://variety.com/2024/tv/news/jimmy-kimmel-urges-republicans-not-vote-donald-trump-1236194616/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/10/mono-e1730266175295.jpg?w=1000&h=561&crop=1",
+      "publishedAt": "2024-10-30T05:21:00Z",
+      "content": "One week out from Election Day, Jimmy Kimmel made an earnest plea to moderate Republicans Tuesday night to reconsider casting a vote for Donald Trump, using the former president’s words to make the c… [+3350 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Jesse Rogers, Jeff Passan",
+      "title": "121-loss White Sox turn to Venable, sources say - ESPN",
+      "description": "The White Sox are hiring Rangers coach Will Venable to be their next manager after a 121-loss season, sources told ESPN, confirming a report by MLB.com.",
+      "url": "https://www.espn.com/mlb/story/_/id/42083747/chicago-white-sox-hiring-venable-manager",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1030%2Fr1407900_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-10-30T05:03:00Z",
+      "content": "Oct 30, 2024, 12:03 AM ET\r\nThe Chicago White Sox are hiring Texas Rangers coach Will Venable to be their next manager, sources familiar with the situation confirmed to ESPN on Tuesday night.\r\nVenable… [+1722 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "LARRY FLEISHER",
+      "title": "Yankee Stadium fans ejected after one pries ball out of Mookie Betts’ glove at World Series - The Associated Press",
+      "description": "Two fans at Yankee Stadium were ejected from Game 4 of the World Series after one pried a foul ball out of the glove of Los Angeles Dodgers right fielder Mookie Betts on Tuesday night. Betts leaped at the wall in foul territory and initially caught Gleyber To…",
+      "url": "https://apnews.com/article/world-series-fan-interference-cd45ba4968dbf6f68b0a6c375a286557",
+      "urlToImage": "https://dims.apnews.com/dims4/default/86cc9cb/2147483647/strip/true/crop/1762x991+0+92/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd7%2F62%2Ffc76bbacb3b588b515022c5921da%2F5b04e1be249b49d996e0c542d07a2fa8",
+      "publishedAt": "2024-10-30T04:56:00Z",
+      "content": "NEW YORK (AP) Two fans at Yankee Stadium were ejected from Game 4 of the World Series after one pried a foul ball out of the glove of Los Angeles Dodgers right fielder Mookie Betts on Tuesday night. … [+1311 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "How the Houthis Went From Ragtag Rebels to Global Threat - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/world/middle-east/how-the-houthis-went-from-ragtag-rebels-to-global-threat-5aa268d0",
+      "urlToImage": null,
+      "publishedAt": "2024-10-30T04:05:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Thao Nguyen",
+      "title": "Owner of NYC day care where toddler died from fentanyl pleads guilty to federal charges - USA TODAY",
+      "description": "Grei Mendez entered the guilty plea in Manhattan to federal charges including conspiracy to distribute narcotics resulting in death.",
+      "url": "https://www.usatoday.com/story/news/nation/2024/10/29/bronx-day-care-death-owner-pleads-guilty/75924263007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/06/USAT/71085088007-daycare-photo-3.jpg?crop=1274,717,x0,y247&width=1274&height=717&format=pjpg&auto=webp",
+      "publishedAt": "2024-10-30T03:21:25Z",
+      "content": "The owner of a New York day care where a 1-year-old died from fentanyl poisoning and three other children were hospitalized pleaded guilty Tuesday to federal charges, officials said.\r\nGrei Mendez ent… [+6001 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "WILL WEISSERT",
+      "title": "Biden suggests Trump supporters are ‘garbage’ after comic’s insult of Puerto Rico - The Associated Press",
+      "description": "President Joe Biden is reacting to a comic calling Puerto Rico a “floating island of garbage” at a Donald Trump rally by saying, “The only garbage I see floating out there is his supporters.” For some, it recalled then-Democratic presidential nominee Hillary …",
+      "url": "https://apnews.com/article/biden-trump-supporters-garbage-puerto-rico-comic-e62ccf9108ba0ca8d1ee694f91a6867e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f85178c/2147483647/strip/true/crop/5345x3007+0+278/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff0%2Ffc%2Ff23c8059ed501367ca061113b806%2F2d88669053a84dafb0c7ee6ec6a291e5",
+      "publishedAt": "2024-10-30T03:04:00Z",
+      "content": "WASHINGTON (AP) President Joe Biden took a swipe against Donald Trumps supporters on Tuesday as he reacted to the Republican presidential nominees weekend rally at Madison Square Garden, which was ov… [+5355 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Armando Tinoco",
+      "title": "Lisa Kudrow Pays Tribute To 'Friends' TV Mom Teri Garr Calling Her \"A Comedic Acting Genius\" - Deadline",
+      "description": "Lisa Kudrow remembers her Friends TV mom, Teri Garr, following news of her death.",
+      "url": "http://deadline.com/2024/10/lisa-kudrow-tribute-friends-tv-mom-teri-garr-1236161787/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/10/lisa-kudrow-teri-garr-friends.jpg?w=1024",
+      "publishedAt": "2024-10-30T03:00:00Z",
+      "content": "Lisa Kudrow remembers her Friends TV mom, Teri Garr, following news of her death.\r\nGarr died at the age of 79 due to multiple sclerosis, which was first diagnosed in 1999. Kudrow shared the small scr… [+1458 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "Man who threatened Fulton County DA Fani Willis gets nearly 2 years in prison - CBS News",
+      "description": "He made threatening phone calls just over a week before former President Donald Trump and 18 others were indicted in Fulton County in August 2023.",
+      "url": "https://www.cbsnews.com/news/man-sentenced-to-prison-threats-against-fulton-county-da-fani-willis/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/30/59e8caed-d969-496a-bdc9-6d25211531de/thumbnail/1200x630/1d7e67da45eaa688c25799179c83d259/gettyimages-2043990546.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+      "publishedAt": "2024-10-30T02:58:56Z",
+      "content": "An Alabama man who left threatening phone messages for Fulton County District Attorney Fani Willis and the county sheriff last summer because he was angry over an investigation into former President … [+5222 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hollywood Reporter" },
+      "author": "Carly Thomas",
+      "title": "Shawn Mendes Gets Candid About His Sexuality: “I’m Just Figuring It Out Like Everyone” - Hollywood Reporter",
+      "description": "\"It always felt like such an intrusion on something very personal to me, something that I was figuring out in myself, something that I had yet to discover, and still have yet to discover,\" the singer said at a recent concert.",
+      "url": "http://www.hollywoodreporter.com/news/general-news/shawn-mendes-opens-up-sexuality-concert-1236048609/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/10/Shawn-Mendes-getty-H-2024.png?w=1296&h=730&crop=1",
+      "publishedAt": "2024-10-30T01:55:15Z",
+      "content": "Shawn Mendes is getting candid about his sexuality.\r\nThe singer opened up to his fans during a concert at the Red Rocks Amphitheatre in Colorado on Monday, where he also performed his upcoming song “… [+2136 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Paul Pelosi attacker sentenced to life in prison in California trial - BBC.com",
+      "description": "David DePape is also serving a 30-year prison sentence after he was convicted on federal charges in May.",
+      "url": "https://www.bbc.com/news/articles/cje09qx348do",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/06b2/live/cfd40100-9637-11ef-8dc6-db6de7516f15.jpg",
+      "publishedAt": "2024-10-30T01:54:53Z",
+      "content": "The man who broke into the home of former Speaker Nancy Pelosi and attacked her husband with a hammer has been sentenced to life in prison without the possibility of parole on state charges in Califo… [+3071 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "What is Unrwa and why has Israel banned it? - BBC.com",
+      "description": "The agency provides aid for Palestinians in Gaza and elsewhere, and has long been criticised by Israel.",
+      "url": "https://www.bbc.com/news/articles/c8jy9v43z89o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/27d6/live/c1fc7dc0-95f9-11ef-8e2e-e71633ffe5ec.jpg",
+      "publishedAt": "2024-10-30T01:52:20Z",
+      "content": "Israel's parliament voted on Monday evening to ban the UN's Palestinian refugee agency (Unrwa) from operating within Israel and occupied East Jerusalem. \r\nContact between Unrwa employees and Israeli … [+5499 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Fox Business" },
+      "author": "Sarah Rumpf-Whitten",
+      "title": "Truth Social parent company Trump Media now worth more than Elon Musk’s X as Election Day nears - Fox Business",
+      "description": "Truth Social stock market valuation is now greater than the estimated value of Elon Musk’s X as the the former president's social media network soars ahead of Election Day.",
+      "url": "https://www.foxbusiness.com/technology/truth-social-parent-company-trump-media-worth-more-elon-musks-x-election-day-nears",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/Elon-Musk-Donald-Trump-split-1.jpg?ve=1&tl=1",
+      "publishedAt": "2024-10-30T01:25:00Z",
+      "content": "Trump Media &amp; Technology Group, which operates the social media network Truth Social, now trumps the estimated value of Elon Musk's X as Election Day looms.\r\nTrump Media &amp; Technology Group (T… [+2629 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": null,
+      "title": "Active shooter at Atlanta hotel is taken into custody after multiple shots fired - CNN",
+      "description": "A man armed with several different weapons fired at least 15 gunshots through the walls and door and off the balcony of his apartment at a Four Seasons Hotel in Atlanta during a standoff Tuesday afternoon and was taken into custody, police said.",
+      "url": "https://www.cnn.com/2024/10/29/us/active-shooter-at-atlanta-hotel-is-taken-into-custody-after-multiple-shots-fired/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24303821857788.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-10-30T01:17:00Z",
+      "content": "Atlanta (AP) A man armed with several different weapons fired at least 15 gunshots through the walls and door and off the balcony of his apartment at a Four Seasons Hotel in Atlanta during a standoff… [+1493 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Kaitlin Lewis",
+      "title": "Kamala Harris' Crowd Size Crushes Previous Record With Ellipse Speech - Newsweek",
+      "description": "Harris delivered her closing arguments at the same site where former President Donald Trump held his \"Save America\" speech preceding the January 6 attack.",
+      "url": "https://www.newsweek.com/kamala-harris-crowd-size-washingtion-dc-rally-1976987",
+      "urlToImage": "https://d.newsweek.com/en/full/2507340/harris-crowd-size-crushes-previous-record.jpg",
+      "publishedAt": "2024-10-30T01:00:13Z",
+      "content": "More than 75,000 spectators gathered in Washington, D.C., to hear Vice President Kamala Harris' closing argument speech at the same site of former President Donald Trump's infamous \"Save America\" ral… [+4257 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "A big Budget - for tax, borrowing and spending - BBC.com",
+      "description": "Rachel Reeves' historic first Budget will set the agenda for the Labour government for years to come.",
+      "url": "https://www.bbc.com/news/articles/c78d5p1nypno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1fa5/live/b2283a80-9647-11ef-9260-19e6a950e830.jpg",
+      "publishedAt": "2024-10-29T23:54:56Z",
+      "content": "This will be a big Budget.\r\nBig tax rises, big borrowing, big spending.\r\nAnd big politically because it will set the political landscape for the years to come.\r\nChancellor Rachel Reeves will promise … [+3889 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Eonline.com" },
+      "author": null,
+      "title": "Channing Tatum and Zoë Kravitz Break Up After 3 Years - E! Online - E! NEWS",
+      "description": "Channing Tatum and Zoë Kravitz have broken up after three years together. The couple first sparked romance rumors in August 2021 and got engaged in October 2023.",
+      "url": "https://www.eonline.com/news/1409275/channing-tatum-and-zoe-kravitz-break-up-after-3-years",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024719/cr_1200x1200-240819145802-shutterstock_editorial_14645360q.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2024-10-29T23:15:00Z",
+      "content": "Channing Tatum and Zoë Kravitz's big little romance is over. \r\nThe couple, who first sparked dating rumors in August 2021 after the Magic Mike alum was cast in her directorial debut Blink Twice, have… [+839 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Slashdot.org" },
+      "author": null,
+      "title": "YouTube Tests New Homepage That Hides Video Upload Date, View Count - Slashdot",
+      "description": "An anonymous reader shares a report: YouTube is reportedly testing a new website layout that removes the date when a video was uploaded and the amount of views it has. [...] On Monday, October 28, VidIQ reported in a post on X that YouTube is testing a new ho…",
+      "url": "https://news.slashdot.org/story/24/10/29/1534238/youtube-tests-new-homepage-that-hides-video-upload-date-view-count",
+      "urlToImage": "https://a.fsdn.com/sd/topics/youtube_64.png",
+      "publishedAt": "2024-10-29T22:56:43Z",
+      "content": "Consider the degree that publications were affected by publicly revealing public opinion. This degree would trend along with how much the video was, well, a \"publication\". Something corporate, clinic… [+316 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": "Kat Bailey",
+      "title": "EA Boss Says BioWare Has Returned to Its Strengths With Dragon Age, Predicts 'Breakout Potential' Thanks in Part to 'Limited Competition' - IGN",
+      "description": "EA CEO Andrew Wilson says BioWare has returned to its strengths with the impending release of Dragon Age: The Veilguard, praising its reviews while predicting that it has \"breakout potential\" thanks to what he characterizes as limited competition.",
+      "url": "https://www.ign.com/articles/ea-boss-says-bioware-has-returned-to-its-strengths-with-dragon-age-predicts-breakout-potential-thanks-in-part-to-limited-competition",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/10/28/dragonagetheveilguard-vdr-v2-1730124849854-34800-1730129907983.png?width=1280",
+      "publishedAt": "2024-10-29T22:28:22Z",
+      "content": "EA CEO Andrew Wilson says BioWare has returned to its strengths with the impending release of Dragon Age: The Veilguard, praising its reviews while predicting that it has \"breakout potential\" thanks … [+2531 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "US calls deadly Israeli air strike 'horrifying' - BBC.com",
+      "description": "At least 93 are dead or missing after an Israeli air strike in Gaza, the Hamas-run health ministry says.",
+      "url": "https://www.bbc.com/news/articles/clydngkv3xko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c6a3/live/d1f38410-95d3-11ef-9eb7-7b7defb4f9e7.jpg",
+      "publishedAt": "2024-10-29T22:05:37Z",
+      "content": "At least 93 people are dead or missing after an Israeli air strike on the town of Beit Lahia in northern Gaza, the Hamas-run health ministry says, in an attack that the United States called \"horrifyi… [+2950 chars]"
+    }
+  ]
+}

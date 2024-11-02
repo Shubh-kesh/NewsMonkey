@@ -1,0 +1,74 @@
+API Key:- 1cc11b5c7d7b48809f350cd27e2d21ef
+
+className= "col md-4" it will take 4 coloumn of container in a medium device
+
+3. why we use this in class based component-
+
+In React class-based components, we use `this` to refer to the current instance of the class. When you create methods or access state and props within a class component, you use `this` to access them. Here’s why `this` is necessary in class-based components:
+
+1. **Referencing Component Methods**: `this` allows you to call other methods within the same component. For example:
+
+    ```javascript
+    class MyComponent extends React.Component {
+      handleClick() {
+        console.log("Button clicked!");
+      }
+
+      render() {
+        return <button onClick={this.handleClick}>Click me</button>;
+      }
+    }
+    ```
+
+    Here, `this.handleClick` refers to the `handleClick` method defined in the current instance of `MyComponent`.
+
+2. **Accessing State and Props**: In class components, `this.state` is used to access the component’s state, and `this.props` is used to access the props passed to it.
+
+    ```javascript
+    class MyComponent extends React.Component {
+      constructor(props) {
+        super(props);
+        this.state = { count: 0 };
+      }
+
+      render() {
+        return <p>Count: {this.state.count}</p>;
+      }
+    }
+    ```
+
+    Here, `this.state.count` is used to access the `count` state variable.
+
+3. **Binding `this` in Event Handlers**: Since `this` in JavaScript behaves differently in regular functions and class methods, you often need to bind it in event handlers. Without binding, `this` might be `undefined` when the method is called as an event handler. Binding `this` in the constructor or using arrow functions can help:
+
+    ```javascript
+    class MyComponent extends React.Component {
+      constructor(props) {
+        super(props);
+        this.state = { count: 0 };
+        this.handleClick = this.handleClick.bind(this); // Binding `this` in constructor
+      }
+
+      handleClick() {
+        this.setState({ count: this.state.count + 1 });
+      }
+
+      render() {
+        return <button onClick={this.handleClick}>Increment</button>;
+      }
+    }
+    ```
+
+4. **Encapsulation of Data**: `this` keeps track of the specific instance of the component, allowing each instance to maintain its own state and behavior independently.
+
+Overall, `this` in React class-based components allows you to reference instance-specific data and methods consistently across the component.
+
+
+
+business
+entertainment
+general
+health
+science
+sports
+technology
