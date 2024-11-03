@@ -64,11 +64,5 @@ In React class-based components, we use `this` to refer to the current instance 
 Overall, `this` in React class-based components allows you to reference instance-specific data and methods consistently across the component.
 
 
-
-business
-entertainment
-general
-health
-science
-sports
-technology
+react life cycle method url-
+https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
