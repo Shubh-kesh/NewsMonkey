@@ -40,11 +40,14 @@ export default class News extends Component {
   }
 
   async updateNews() {
+    this.props.setProgress(10);
     const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=1cc11b5c7d7b48809f350cd27e2d21ef&page=${this.props.page}&pageSize=${this.props.pageSize}`;
     //it will wait for response then execute
     //the code pauses on this line until the fetch request completes and the response is received.
     let data = await fetch(url);
+    this.props.setProgress(30);
     let parsedData = await data.json();
+    this.props.setProgress(75);
     console.log(parsedData);
     this.setState({
       articles: parsedData.articles,
@@ -52,6 +55,7 @@ export default class News extends Component {
       pagecount: Math.ceil(this.state.totalResults / this.props.pageSize),
       loading: true,
     });
+    this.props.setProgress(100);
   }
 //for infinite scrolling
   fetchMoreData=async()=>{
